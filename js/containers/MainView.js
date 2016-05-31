@@ -23,7 +23,7 @@ export default class MainView extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>Hello socialobjects crew!</Text>
+        <Text style={styles.message}>Hello socialobjects crew!</Text>
       </View>
     )
   }
@@ -32,5 +32,9 @@ export default class MainView extends Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1
+  },
+  message: {
+    marginTop: 100,
+    marginLeft: 100
   }
 })

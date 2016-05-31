@@ -5,7 +5,7 @@ import React, {
 
 import AppContainer from 'AppContainer'
 
-class SOBase extends Component {
+class Sobase extends Component {
   render() {
     return (
       <AppContainer />
@@ -13,4 +13,4 @@ class SOBase extends Component {
   }
 }
 
-AppRegistry.registerComponent('SOBase', () => SOBase)
+AppRegistry.registerComponent('sobase', () => Sobase)

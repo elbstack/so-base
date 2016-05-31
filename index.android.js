@@ -5,7 +5,7 @@ import React, {
 
 import AppContainer from 'AppContainer'
 
-class SO-Base extends Component {
+class Sobase extends Component {
   render() {
     return (
       <AppContainer />
@@ -13,4 +13,4 @@ class SO-Base extends Component {
   }
 }
 
-AppRegistry.registerComponent('SO-Base', () => SO-Base)
+AppRegistry.registerComponent('Sobase', () => Sobase)
