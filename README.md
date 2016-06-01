@@ -17,3 +17,7 @@
 * https://github.com/tomauty/react-native-chart
 
 Or drawing by yourself: https://medium.com/@wwayne_me/let-s-drawing-charts-in-react-native-without-any-library-4c20ba38d8ab#.do75jr51f
+
+## Keywords
+* fastlane
+* InteractionManager
